@@ -1,0 +1,13 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: auto;
+  width: 95%;
+}
+
+.layout main {
+  width: 75%;
+  max-width: 80rem;
+  margin: inherit;
+}

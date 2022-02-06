@@ -1,0 +1,13 @@
+.newsclip {
+  font-size: 1.5rem;
+  margin: 5px 10px;
+  padding: 5px;
+}
+.headline {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.source {
+  font-size: 0.6em;
+}
