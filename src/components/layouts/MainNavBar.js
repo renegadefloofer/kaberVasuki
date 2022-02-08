@@ -21,6 +21,9 @@ const MainNavBar = () => {
           <li>
             <Link to="/about">About</Link>
           </li>
+          <li>
+            <Link to="/connect">Connect</Link>
+          </li>
         </ul>
       </nav>
     </header>
